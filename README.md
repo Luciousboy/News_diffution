@@ -21,5 +21,5 @@ The file `event_functions.py` includes all the necessary functions for event det
 
 ### Example Notebook
 
-An example Jupyter Notebook (`example_usage.ipynb`) is included to demonstrate the functionality of these functions and the creation of the Qs and Qa matrices. This notebook provides practical examples and can be used as a reference for understanding how to implement the methods provided in this repository.
+An example Jupyter Notebook (`Example.ipynb`) is included to demonstrate the functionality of these functions and the creation of the Qs and Qa matrices. This notebook provides practical examples and can be used as a reference for understanding how to implement the methods provided in this repository.
 
